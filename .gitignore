@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+.vs/Loading Screen/v16/ipch/AutoPCH/c1ff886a0fd8b984/DOOR.ipch
+.vs/Loading Screen/v16/ipch/AutoPCH/c18fbf563dd3710c/AGAMEOBJECT.ipch
+.vs/Loading Screen/v16/ipch/AutoPCH/bfa5230bb674901d/FPSCOUNTER.ipch
+.vs/Loading Screen/v16/ipch/AutoPCH/bcfba60dc8f84675/ATHREAD.ipch
+.vs/Loading Screen/v16/ipch/AutoPCH/b9372ac72c874c92/LOADINGSCREEN.ipch
+.vs/Loading Screen/v16/ipch/AutoPCH/b73863b3b0ceb970/MUSICPLAYER.ipch
+.vs/Loading Screen/v16/ipch/AutoPCH/92b4f5074b5e90ea/SOUNDLOADERTHREAD.ipch
+.vs/Loading Screen/v16/ipch/AutoPCH/7ecb448f22ac04d5/MAIN.ipch
+.vs/Loading Screen/v16/ipch/AutoPCH/7b92861d3e791f1c/IMAGELOADERTHREAD.ipch
+.vs/Loading Screen/v16/ipch/AutoPCH/66ea04109ca5da96/GAMEOBJECTMANAGER.ipch
+.vs/Loading Screen/v16/ipch/AutoPCH/5b264d9fd4b35c6a/PROGRESSBAR.ipch
+.vs/Loading Screen/v16/Browse.VC.db
+.vs/Loading Screen/v16/.suo
